@@ -20,6 +20,7 @@
 
 ```sh
 git clone https://github.com/langyo/cnpm-registry-helper
+cd cnpm-registry-helper
 to_taobao.bat
 ```
 
@@ -27,6 +28,7 @@ to_taobao.bat
 
 ```sh
 git clone https://github.com/langyo/cnpm-registry-helper
+cd cnpm-registry-helper
 sh ./to_taobao.sh
 ```
 
@@ -36,6 +38,7 @@ sh ./to_taobao.sh
 
 ```sh
 git clone https://github.com/langyo/cnpm-registry-helper
+cd cnpm-registry-helper
 to_global.bat
 ```
 
@@ -43,5 +46,6 @@ to_global.bat
 
 ```sh
 git clone https://github.com/langyo/cnpm-registry-helper
+cd cnpm-registry-helper
 sh ./to_global.sh
 ```
